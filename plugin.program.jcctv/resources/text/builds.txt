@@ -1,5 +1,5 @@
 name="JCCTV Full"
-version="1.0"
+version="1.1"
 url="http://crawfordbulldogs.com/jcctv/jcctv-full.zip"
 gui="http://crawfordbulldogs.com/jcctv/jcctv-full_guisettings.zip"
 minor="http://"
